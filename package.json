@@ -1,0 +1,27 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "A simple request header parser",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesmata/request-header-parser.git"
+  },
+  "keywords": [
+    "Request",
+    "Header",
+    "Parser"
+  ],
+  "author": "Arotimi Busayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesmata/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/codesmata/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+  }
+}
